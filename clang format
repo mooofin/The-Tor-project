@@ -26,5 +26,4 @@ indent_style = tab
 [*-spec.txt]
 # specs seem to have 76 chars max per lines as RFCs
 max_line_length = 76
-© 2022 GitHub, Inc.
-Terms
+
